@@ -1,0 +1,17 @@
+.navbar{
+    background-color: rgb(80, 137, 145);
+    display: flex;
+    justify-content: space-between;
+    
+} 
+.navbar-logo{
+    color: #172a3a;
+    font-size: 100px;
+}
+.navbar-menu{
+    display: flex;
+    margin: 10px;
+}
+.navbar-menu-items{
+    margin: 5px;
+}
