@@ -1,0 +1,21 @@
+.intro {
+    background-color: rgb(80, 137, 145);
+    color: #172a3a;
+}
+.intro-line-1 {
+    color: #172a3a;
+}
+.intro-name {
+    color: lightgray;
+    font-size: 50px;
+    font-weight: bold;
+}
+.intro-word {
+    color: #eafffd;
+    font-size: 50px;
+    font-weight: bold;
+}
+.intro-sent {
+    color: lightgray;
+     
+}

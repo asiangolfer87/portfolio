@@ -5,7 +5,7 @@ function Navbar() {
     <div className='navbar'>
         <div>
             <p className='navbar-logo'>Dan</p>
-        </div>
+        </div> 
 
         <div className='navbar-menu'>
             <p className='navbar-menu-items'>About</p>
